@@ -1,9 +1,6 @@
 ## Book chapters to read from Hawani(2018) Qt5 Python GUI Programming Cookbook
 
-- Chapter 7: PyQt
-- Chapter 8: Basic Widgets
-- Chapter 9: Advanced Widgets
-- Chapter 10: Menus and Toolbars
+- Chapter 7: Networking and Mangaging Large Documents
 
 ## Assessment Criteria
 

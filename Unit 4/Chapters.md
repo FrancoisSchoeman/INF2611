@@ -1,6 +1,6 @@
 ## Book chapters to read from Hawani(2018) Qt5 Python GUI Programming Cookbook
 
-- Chapter 12: Database Handling
+- Chapter 9: Database Handling
 
 ## Assessment Criteria
 

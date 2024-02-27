@@ -1,6 +1,7 @@
 ## Book chapters to read from Hawani(2018) Qt5 Python GUI Programming Cookbook
 
-- Chapter 11: Multiple Documents and Layouts
+- Chapter 6: Understanding Layouts
+- Chapter 7: Networking and Mangaging Large Documents
 
 ## Assessment Criteria
 

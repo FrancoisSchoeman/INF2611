@@ -1,6 +1,9 @@
 ## Book chapters to read from Hawani(2018) Qt5 Python GUI Programming Cookbook
 
-- Chapter 9: Advanced Widgets
+- Chapter 1: Creating a User Interface with Qt Components
+- Chapter 2: Event Handling - Signals and Slots
+- Chapter 3: Working with Date and Time
+- Chapter 10: Using Graphics
 
 ## Assessment Criteria
 
