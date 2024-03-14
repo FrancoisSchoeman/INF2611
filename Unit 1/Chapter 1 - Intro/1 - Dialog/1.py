@@ -9,6 +9,8 @@
 
 # Event handling in PyQt5 uses signals and slots. A signal is an event, and a slot is a method that is executed on the occurrence of a signal.
 
+#* When we don't want to show the output to the console when running the application, we save our main file as .pyw instead of .py
+
 from ui import *
 from PyQt5.QtWidgets import QDialog, QApplication
 import sys
